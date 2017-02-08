@@ -54,7 +54,7 @@
   "dependencies": {
     "react": "^15.4.1",
     "react-native": "~0.39.0",
-    "victory-chart-native": "^2.0.0",
+      "victory-chart-native": "thumblab/victory-chart-native#tl1.1",
     "victory-core": "^10.0.3",
     "victory-core-native": "^4.0.0",
     "victory-pie-native": "^2.0.0"
