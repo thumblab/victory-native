@@ -40,7 +40,7 @@
         "react-addons-test-utils": "15.4.1",
         "react-dom": "15.4.1",
 
-        "react-native": "~0.39.0",
+        "react-native": "~0.39.2",
 
         "react-native-mock": "^0.2.5",
         "react-native-svg": "^4.1.0",
@@ -48,15 +48,15 @@
     },
     "peerDependencies": {
         "react": "15.4.1",
-        "react-native": "~0.39.0",
+        "react-native": "~0.39.2",
         "react-native-svg": "^4.1.0"
     },
     "dependencies": {
         "react": "^15.4.1",
-        "react-native": "~0.39.0",
-        "victory-chart-native": "thumblab/victory-chart-native#tl1.3",
+        "react-native": "~0.39.2",
+        "victory-chart-native": "thumblab/victory-chart-native#tl1.4",
         "victory-core": "^10.0.3",
-        "victory-core-native": "thumblab/victory-core-native#tl1.1",
-        "victory-pie-native": "thumblab/victory-pie-native#tl1.1"
+        "victory-core-native": "thumblab/victory-core-native#tl1.2",
+        "victory-pie-native": "thumblab/victory-pie-native#tl1.2"
     }
 }
